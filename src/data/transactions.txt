@@ -1,0 +1,10 @@
+2025-03-31, Income, Salary, 25000
+2025-03-31, Expense, Grocery, 3000
+2025-03-30, Expense, Electricity Bill, 1500
+2025-03-29, Income, Freelance Work, 5000
+2025-03-28, Expense, Dining Out, 2000
+2025-03-27, Income, Bonus, 10000
+2025-03-26, Expense, Fuel, 1200
+2025-03-25, Expense, Shopping, 4500
+2025-03-24, Income, Side Business, 8000
+2025-03-23, Expense, Rent, 15000
